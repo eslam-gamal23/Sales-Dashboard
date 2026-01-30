@@ -25,7 +25,7 @@ The dashboard provides a detailed view of net sales performance across:
 - Sales by Age-Category and Gender
 - Category-wise Sales breakdown
 
-## ToolS Used
+## Tools Used
 - Microsoft Excel
 - Power Query
 - Power Pivot
