@@ -1,5 +1,5 @@
 # Sales Dashboard Project
-This project presents a Net sales Dashboard created using Excel.
+This project presents a net sales dashboard created using Excel.
 
 ## Overview
 The dashboard provides a detailed view of Net sales performance across:
