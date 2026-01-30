@@ -2,7 +2,7 @@
 This project presents a net sales dashboard created using Excel.
 
 ## Overview
-The dashboard provides a detailed view of Net sales performance across:
+The dashboard provides a detailed view of net sales performance across:
 - Categories: Electronics, Furniture, Clothing
 - Cities and Regions
 - Age and Gender distribution
