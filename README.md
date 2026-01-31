@@ -30,5 +30,3 @@ The dashboard provides a detailed view of net sales performance across:
 - Microsoft Excel
 - Power Query
 - Power Pivot
-  
-*Screenshot of the dashboard is included below.*
