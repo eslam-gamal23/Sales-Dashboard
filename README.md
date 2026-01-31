@@ -1,4 +1,5 @@
 # Sales Dashboard Project
+![Sales Dashboard](image.png)
 This project presents a net sales dashboard created using Excel.
 
 ## Overview
